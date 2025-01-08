@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris!
 - 👀 I’m interested in coding, basketball, card games and mmo's.
-- 🌱 I’m currently learning html, css, javascript, react.
+- 🌱 I’m currently working in React, Typescript, and Tailwind CSS.
 - 💞️ I’m looking to collaborate on front-end projects.
 - 📫 How to reach me knudcb28@gmail.com
 
